@@ -1,0 +1,16 @@
+{
+  "name": "spehre",
+  "version": "0.0.0",
+  "description": "control the sphere throught the smartphone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felipe mendez",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.4.5",
+    "three": "~0.58.10"
+  }
+}
