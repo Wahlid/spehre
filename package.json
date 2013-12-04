@@ -11,6 +11,7 @@
   "dependencies": {
     "socket.io": "~0.9.16",
     "express": "~3.4.5",
-    "three": "~0.58.10"
+    "three": "~0.58.10",
+    "connect": "~2.11.2"
   }
 }
