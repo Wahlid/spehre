@@ -1,3 +1,14 @@
+## NOTE ##
+
+* first run npm update
+* check your localhost ip and replace it in 'public/index.html' 'var socket = io.connect('http:// /* your ip here */ ');
+* run 'node sever.js' and have fun
+
+## Udate ##
+
+Right now you only get in the browser the position of your finger in your smartphone
+
+
 spehre
 ======
 
