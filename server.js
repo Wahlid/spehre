@@ -1,6 +1,6 @@
 var   io = require('socket.io')
   	, fs = require('fs')
-	, connect = require('connect');
+	   , connect = require('connect');
 
 
 var app = connect().use(connect.static('public')).listen(3000);
